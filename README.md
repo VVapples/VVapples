@@ -1,16 +1,22 @@
 ## Hi there 👋
 
-<!--
-**VVapples/VVapples** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a student still learning many things.
 
-Here are some ideas to get you started:
+I'm currently working on a project at a school club or somethin.
+Hope it goes well.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Stuffs I can do
+
+### Programming languages
+- Python, C++
+
+### Stuffs I have worked on
+- Use of microcontrollers
+- Making games
+
+---
+
+## Other stuffs about me
+- I have 3 cats. They are too cute.
